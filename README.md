@@ -18,8 +18,24 @@ The program will ask you to insert a link to a district. Then you will have to t
 Please, keep in mind that the program will only work if [the page](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ) is displayed in Czech.
 
 ### Sample
-Election result for Domažlice district: 
+Election results for Domažlice district: 
+1. input: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=4&xnumnuts=3201
+2. input: domazlice_results
 ```
-Link to the selected region: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=4&xnumnuts=3201
-Please, name your csv file where you can later find the result: domazlice_result
+======================================================================
+                          ELECTIONS SCRAPER                           
+======================================================================
+Please, choose one of the  Czech districts on this website:
+https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
+----------------------------------------------------------------------
+Link to the selected district:
+https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=4&xnumnuts=3201
+----------------------------------------------------------------------
+Please, name your csv file where you can later find the result:
+domazlice_results
+It's working... please wait
+----------------------------------------------------------------------
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Now you can find the results in domazlice_results.csv.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```
