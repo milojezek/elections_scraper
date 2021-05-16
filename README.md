@@ -1,7 +1,5 @@
 # Engeto Academy: Selections Scraper
 
-This is the final project within Engeto Academy.
-
 ## Project Description
 This project can be used to extract the results of the parliamnetary elections in 2017.
 
